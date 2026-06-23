@@ -10,7 +10,7 @@ With over 5 years of hands-on experience managing Linux-based infrastructure, I 
 
 **Odoo Hackathon Finale (Parul University)**
 
-* **Rapid Development:** Architected and developed a full-stack POS system from scratch within a strict 24-hour deadline.
+* **Rapid Development:** Architected and developed a POS system from scratch within a strict 24-hour deadline.
 * **Backend Architecture:** Built a high-performance backend using **Python, FastAPI, and PostgreSQL (asyncpg)** with **Tortoise ORM**, ensuring strict data validation with **Pydantic**.
 * **Security First:** Locked down data and prioritized user privacy by implementing **JWT** for authentication alongside **AES256 and SHA256** encryption.
 * **Innovation:** Successfully pitched the concept "Traveloop" during the virtual screening to advance to the offline finals.
